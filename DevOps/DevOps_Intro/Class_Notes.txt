@@ -1,0 +1,40 @@
+PL-DevOps-MultiCloud
+
+7:30-9:30 AM IST
+
+####################
+Day-0 24th Mar. 2026 		- Orientation
+####################
+
+
+
+
+####################
+Day-1 25th Mar. 2026
+####################
+
+Module 1 - DevOps Tools stack!
+
+	- Introduction to DevOps 
+	
+	- Lab Requirements 
+		- Pre-requisites
+			
+			- Create a free tier account on AWS Cloud 
+				- https://aws.amazon.com/console/
+				
+					- Active Email_ID 
+					- Active Mobile Number 
+					- Active Credit/Debit Card Number enable with International Transaction
+					
+					- PAN Card Number
+					
+				- Login to AWS Management Console using root_user_id(Email_ID) & password
+					- Create MFA - Two-way Authentication 
+					
+						- Install google authenticator App on your mobile phone
+						
+				- Create AWS EC2 Instances - Virtual Machines (Lab Environments)
+				
+			- GitHub Account 	# Used to maintain the Remote Repositories(Files & Folders).
+				- https://github.com/
